@@ -5,3 +5,8 @@ jinja2
 pytest
 requests
 pre-commit
+python-dotenv
+aiofiles
+python-multipart
+pillow
+pytesseract
